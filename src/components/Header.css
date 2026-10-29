@@ -1,0 +1,19 @@
+.header {
+    background-color: #f0f4f8;
+    /* Fond gris clair kif el-modèle */
+    color: #2c3e50;
+    text-align: center;
+    padding: 25px 10px;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 2.2rem;
+    color: #34495e;
+}
+
+.header p {
+    margin-top: 5px;
+    color: #7f8c8d;
+    font-size: 1rem;
+}
